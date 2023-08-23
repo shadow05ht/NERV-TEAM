@@ -1,0 +1,32 @@
+.l {
+    color: white;
+}
+
+.w {
+    width: 70px;
+    height: 60px;
+}
+
+::selection {
+    background-color: black;
+    color: gold;
+}
+
+.N:hover {
+    color: yellow;
+    transition: .8s;
+    scale: 1.13;
+    text-shadow: 5px 5px 5px yellow;
+}
+
+.f:hover {
+    scale: 1.02;
+    transition: .8s;
+    text-shadow:5px 5px 15px gold;
+}
+
+.i:hover {
+    transition: .8s;
+    scale: 1.02;
+    box-shadow: 5px 5px 5px gold;
+}
