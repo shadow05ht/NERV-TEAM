@@ -25,6 +25,10 @@
     text-shadow:5px 5px 15px gold;
 }
 
+.i{
+    background-size: cover;
+    background-position: center;
+}
 .i:hover {
     transition: .8s;
     scale: 1.02;
